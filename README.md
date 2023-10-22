@@ -1,4 +1,4 @@
-# HospitalManagement_-System
+# HospitalManagement_System
 
 The tool is designed for hospitals, physicians and nurse, to documents both the clinical conditions 
 they diagnose as well as the services and items delivered to beneficiaries to treat on their conditions. 
